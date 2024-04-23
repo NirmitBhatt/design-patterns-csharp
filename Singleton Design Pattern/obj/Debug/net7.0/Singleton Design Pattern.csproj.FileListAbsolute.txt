@@ -1,0 +1,15 @@
+C:\Users\nirmi\source\repos\Design Patterns CS\Singleton Design Pattern\bin\Debug\net7.0\Singleton Design Pattern.exe
+C:\Users\nirmi\source\repos\Design Patterns CS\Singleton Design Pattern\bin\Debug\net7.0\Singleton Design Pattern.deps.json
+C:\Users\nirmi\source\repos\Design Patterns CS\Singleton Design Pattern\bin\Debug\net7.0\Singleton Design Pattern.runtimeconfig.json
+C:\Users\nirmi\source\repos\Design Patterns CS\Singleton Design Pattern\bin\Debug\net7.0\Singleton Design Pattern.dll
+C:\Users\nirmi\source\repos\Design Patterns CS\Singleton Design Pattern\bin\Debug\net7.0\Singleton Design Pattern.pdb
+C:\Users\nirmi\source\repos\Design Patterns CS\Singleton Design Pattern\obj\Debug\net7.0\Singleton Design Pattern.csproj.AssemblyReference.cache
+C:\Users\nirmi\source\repos\Design Patterns CS\Singleton Design Pattern\obj\Debug\net7.0\Singleton Design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nirmi\source\repos\Design Patterns CS\Singleton Design Pattern\obj\Debug\net7.0\Singleton Design Pattern.AssemblyInfoInputs.cache
+C:\Users\nirmi\source\repos\Design Patterns CS\Singleton Design Pattern\obj\Debug\net7.0\Singleton Design Pattern.AssemblyInfo.cs
+C:\Users\nirmi\source\repos\Design Patterns CS\Singleton Design Pattern\obj\Debug\net7.0\Singleton Design Pattern.csproj.CoreCompileInputs.cache
+C:\Users\nirmi\source\repos\Design Patterns CS\Singleton Design Pattern\obj\Debug\net7.0\Singleton Design Pattern.dll
+C:\Users\nirmi\source\repos\Design Patterns CS\Singleton Design Pattern\obj\Debug\net7.0\refint\Singleton Design Pattern.dll
+C:\Users\nirmi\source\repos\Design Patterns CS\Singleton Design Pattern\obj\Debug\net7.0\Singleton Design Pattern.pdb
+C:\Users\nirmi\source\repos\Design Patterns CS\Singleton Design Pattern\obj\Debug\net7.0\Singleton Design Pattern.genruntimeconfig.cache
+C:\Users\nirmi\source\repos\Design Patterns CS\Singleton Design Pattern\obj\Debug\net7.0\ref\Singleton Design Pattern.dll
