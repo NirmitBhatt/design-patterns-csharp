@@ -18,10 +18,4 @@ public abstract class NewsletterPublisher : IPublisher{
         }
         
     }
-
-    // public void UploadNewsletter(string NewsletterTitle)
-    // {
-    //     Console.WriteLine($"This is the Newsletter Publisher. We have uploaded a new newsletter: {NewsletterTitle}");
-    //     NotifySubscriber();
-    // }
 }

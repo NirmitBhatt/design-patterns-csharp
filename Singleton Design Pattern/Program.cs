@@ -9,7 +9,7 @@ class Program
         Singleton secondSingletonInstance = Singleton.GetInstance();
 
         checkSingletonInstance = (firstSingletonInstance == secondSingletonInstance);
-        Console.WriteLine(checkSingletonInstance); //returns True
+        Console.WriteLine(checkSingletonInstance); //Output: True
 
     }
 }
