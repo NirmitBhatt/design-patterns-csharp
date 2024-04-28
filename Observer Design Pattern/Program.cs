@@ -7,28 +7,38 @@ class Program
         Subscriber Mark  = new Subscriber("Mark");
         Subscriber Clint  = new Subscriber("Clint");
 
-        NewsletterPublisher PromotionalNewsletter = new NewsletterPublisher();
-        NewsletterPublisher WeeklyNewsletter = new NewsletterPublisher();
+        PromotionalNewsletter promotionalNewsletter1 = new PromotionalNewsletter();
+        WeeklyNewsletter weeklyNewsletter1 = new WeeklyNewsletter();
         
-        PromotionalNewsletter.AddSubscriber(Peter);
-        WeeklyNewsletter.AddSubscriber(Mark);
-        WeeklyNewsletter.AddSubscriber(Clint);
+        promotionalNewsletter1.AddSubscriber(Peter);
+        weeklyNewsletter1.AddSubscriber(Mark);
+        weeklyNewsletter1.AddSubscriber(Clint);
 
-        PromotionalNewsletter.UploadNewsletter("Amazon Prime Benifits");
-        WeeklyNewsletter.UploadNewsletter("This week in the Tech World!");
+        promotionalNewsletter1.UploadNewsletter("Amazon Prime Benifits");
+        /*Output: New Promotional Offer: Amazon Prime Benifits
+        Hey Peter! New newsletter from your Subscription.*/
+        weeklyNewsletter1.UploadNewsletter("This week in the Tech World!");
+        /*Output: New from our Weekly Newsletter: This week in the Tech World!
+        Hey Mark! New newsletter from your Subscription.
+        Hey Clint! New newsletter from your Subscription.*/
 
-        WeeklyNewsletter.RemoveSubscriber(Clint);
+        weeklyNewsletter1.RemoveSubscriber(Clint);
 
-        PromotionalNewsletter.UploadNewsletter("Promo codes for H&M");
-        WeeklyNewsletter.UploadNewsletter("New Tech Releases this Week");
+        promotionalNewsletter1.UploadNewsletter("Promo codes for H&M");
+        /*Output: New Promotional Offer: Promo codes for H&M
+        Hey Peter! New newsletter from your Subscription.*/
+        weeklyNewsletter1.UploadNewsletter("New Tech Releases this Week");
+        /*Output: New from our Weekly Newsletter: New Tech Releases this Week
+        Hey Mark! New newsletter from your Subscription.*/
 
-        PromotionalNewsletter.AddSubscriber(Clint);
+        promotionalNewsletter1.AddSubscriber(Clint);
 
-        PromotionalNewsletter.UploadNewsletter("Coupon codes for Kitchenware");
-        WeeklyNewsletter.UploadNewsletter("These Stocks performed best!");
-
-
-
-
+        promotionalNewsletter1.UploadNewsletter("Coupon codes for Kitchenware");
+        /*Output: New Promotional Offer: Coupon codes for Kitchenware
+        Hey Peter! New newsletter from your Subscription.
+        Hey Clint! New newsletter from your Subscription.*/
+        weeklyNewsletter1.UploadNewsletter("These Stocks performed best!");
+        /*Output: New from our Weekly Newsletter: These Stocks performed best!
+        Hey Mark! New newsletter from your Subscription.*/
     }
 }
