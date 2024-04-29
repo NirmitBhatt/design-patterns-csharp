@@ -17,5 +17,5 @@ This basically means that you need:
 * A **private** _(-)_ **constructor**
 * A **public** _(+)_ and **static** _(underlined)_ **function** that returns  the instance
 
-#### This implementation (with additional double-check locking) can be found in the SingletonCalss.cs file
+#### This implementation (with additional double-check locking) can be found in the SingletonClass.cs file
 
