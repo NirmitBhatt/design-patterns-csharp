@@ -7,4 +7,4 @@
 
 In order to achieve this we need to follow this structure:
 
-![Singleton Structure](C:\Users\nirmi\Downloads\StructureSingleton.png)
+![Singleton Structure](StructureSingleton.png)
