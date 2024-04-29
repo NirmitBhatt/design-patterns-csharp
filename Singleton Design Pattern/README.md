@@ -1,6 +1,5 @@
 # Singleton Design Pattern
 ***
-***
 #### Singleton is a Creational Design Pattern that ensures two main things:
 
 1. That a class has just a **single instance**
