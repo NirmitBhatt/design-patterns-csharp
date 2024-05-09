@@ -19,7 +19,8 @@ The Observer Design Pattern can be implemented with the following structure:
 
 ![Observer Structure](StructureObserver.png)
 
-=
+***
+***
 Here I have implemented the Observer Design Pattern using an example of Newsletter subscription.
 
 Whenever a new newsletter is published, the subcribers that have subscribed to that specific Newsletter will be notified.
