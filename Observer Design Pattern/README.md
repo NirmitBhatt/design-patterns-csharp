@@ -5,5 +5,5 @@
 
 #### It defines a one-to-many dependency between objects where: 
 
-1. One object is the "Observable" (Subject/Publisher) and
-2. Other objects are "Observers" (Subscribers)
+1. One object is the **"Observable"** (Subject/Publisher) and
+2. Other objects are **"Observers"** (Subscribers)
