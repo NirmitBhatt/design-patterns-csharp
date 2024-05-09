@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Simple_Implementation
 build_property.ProjectDir = C:\Users\nirmi\source\repos\Design Patterns CS\Observer Design Pattern\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
