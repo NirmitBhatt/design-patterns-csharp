@@ -11,7 +11,6 @@ Observer Design Pattern defines a one-to-many dependency between objects where:
 The **Observable** notify all the Observers when a change occurs in its state.
 The **Observers** listen to the changes of the Observable.
 
-
 The Observer Design Pattern can be implemented with the following structure:
 * An IObservable interface (that can be observed) that can be observed by many observers/subscribers.
 * An IObserver interface (that can observe) that observes one observable/subject/publisher.
@@ -20,6 +19,7 @@ The Observer Design Pattern can be implemented with the following structure:
 
 ![Observer Structure](StructureObserver.png)
 
+=
 Here I have implemented the Observer Design Pattern using an example of Newsletter subscription.
 
 Whenever a new newsletter is published, the subcribers that have subscribed to that specific Newsletter will be notified.
