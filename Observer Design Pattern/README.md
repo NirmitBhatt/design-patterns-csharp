@@ -23,8 +23,8 @@ The Observer Design Pattern can be implemented with the following structure:
 ***
 Here I have implemented the Observer Design Pattern using an example of Newsletter subscription.
 
-Whenever a new newsletter is published, the subcribers that have subscribed to that specific Newsletter will be notified.
+* Whenever a new newsletter is published, the subcribers that have subscribed to that specific Newsletter will be notified.
 
-In the above example _NewsletterPublisher_ is an abstract class that derives directly from the IObservable interface. 
+* In the above example _NewsletterPublisher_ is an abstract class that derives directly from the IObservable interface. 
 
-The _WeeklyNewsletter_ and _PromotionalNewsletter_ further are concrete publishers that extend the _NewsletterPublisher_ class, inheriting the subscription behavior.
+* The _WeeklyNewsletter_ and _PromotionalNewsletter_ further are concrete publishers that extend the _NewsletterPublisher_ class, inheriting the subscription behavior.
